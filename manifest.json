@@ -1,0 +1,9 @@
+{
+  "name":"Luna AI Companion",
+  "short_name":"Luna",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#100d15",
+  "theme_color":"#17131f",
+  "icons":[]
+}
